@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <a href="https://t.me/OxSkeby" target="_blank">
+  <a href="https://t.me/staticusername" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="telegram logo"  />
   </a>
   <a href="mailto:akinsanyaadeyinka4166@gmail.com" target="_blank">
@@ -54,8 +54,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Skeby&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="250" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Skeby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="300" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=skeby&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="250" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skeby&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=github_dark&hide_border=false" height="300" alt="languages graph"  />
 </div>
 
 ###
