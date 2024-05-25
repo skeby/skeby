@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">I am currently learning React + TypeScript + Tailwind.<br>Contact me on any of these platforms  👇to collaborate on website development projects.</h3>
+<h3 align="center">Development Stack → React + TypeScript + Tailwind.</h3>
 
 ###
 
@@ -29,6 +29,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="25" alt="canva logo"  />
 </div>
+
+###
+
+<h4 align="center">Contact me on any of these platforms  👇to collaborate on website development projects.</h4>
 
 ###
 
@@ -59,7 +63,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Skeby&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="180" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Skeby&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Skeby&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
 </div>
 
 ###
@@ -67,5 +71,3 @@
 <img src="https://raw.githubusercontent.com/Skeby/Skeby/output/snake.svg" alt="Snake animation" />
 
 ###
-
-[![An image of @skeby's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skeby)](https://holopin.io/@skeby)
