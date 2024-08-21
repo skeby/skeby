@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">Development Stack → React + TypeScript + Tailwind.</h3>
+<h3 align="center">Development Stack → React/Next + TypeScript + Tailwind.</h3>
 
 ###
 
